@@ -37,10 +37,10 @@
       1 = finished 
 
 
-      step 1 
+     - step 1 
         git clone https://github.com/cleong98/express-simple-rest-api.git
-      step 2 
+     - step 2 
         npm install / npm i 
-      step3 
+     - step3 
         npm run serve  // this step is for run server
-        
+
