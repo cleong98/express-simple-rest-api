@@ -2,6 +2,7 @@ const express =require('express');
 const app = express();
 const bodyParser = require('body-parser');
 const router = require('./router/index')(express);
+
 app.use(bodyParser.json());
 // app.use(bodyParser.urlencoded({
 //     extended:true
